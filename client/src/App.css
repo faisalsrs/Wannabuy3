@@ -34,3 +34,14 @@ body {
   border-style: solid;
   border-color: white;
 }
+
+td {
+  border: 1px solid red;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+th {
+  margin-left: 10px;
+  margin-right: 10px;
+}
