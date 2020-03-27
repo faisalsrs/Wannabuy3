@@ -1,0 +1,36 @@
+body {
+  font-size: 30px;
+}
+
+.container,
+.container-flex {
+  padding: 3rem;
+}
+
+.container-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.error {
+  color: red;
+  margin-left: 10px;
+}
+
+.arrow {
+  font-size: 50px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.single-container {
+  border-style: solid;
+  border-color: white;
+}
